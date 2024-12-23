@@ -9,3 +9,13 @@ This project is a starting point for a Flutter application.
 
    ```bash
    git clone https://github.com/shafitlb/expense_tracker.git.
+
+Install dependencies:
+
+Navigate to the project directory and run:      
+   flutter pub get
+
+Run the app:
+
+Connect a device (physical or emulator) and run:
+   flutter run
